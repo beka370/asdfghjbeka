@@ -1,0 +1,69 @@
+.qwerty {
+    background-color: rgba(31, 28, 231, 0.699);
+    height: 270px;
+   width: 770px;
+   padding-top: 50px;
+
+   text-align: center;
+   align-items: center;
+   color: aliceblue;
+   text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-weight: bold;
+   border-radius:10px ;
+   border: 35px solid rgb(186, 186, 186)
+
+}
+body {
+    padding-left: 1000px;
+    padding-top: 300px;
+    background-color: rgba(0, 193, 246, 0.947);
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.kross {
+   background-color: rgba(255, 255, 255, 0.125);
+   text-align: center;
+   height: 50px;
+   border-radius:3px ;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-left: 20px;
+   margin-right: 20px;
+}
+img {
+  display: flex;
+  flex-direction: row;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+   
+}
+.korol {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top: 100px;
+   
+}
+
+.avas {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.qwet {
+    margin-top: 100px;
+    
+}
+.qweb {
+    margin-top: 100px;
+}
+.qweg {
+    margin-top: 100px;
+}
+.qwel {
+    margin-top: 100px;
+}
